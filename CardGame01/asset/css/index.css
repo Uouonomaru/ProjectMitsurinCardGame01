@@ -1,0 +1,12 @@
+article {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    border-right: solid 1px #000000;
+    border-left: solid 1px #000000;
+    padding-left: 1.5em;
+}
+
+article h1 {
+    color: #a1f058;
+}
